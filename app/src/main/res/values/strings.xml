@@ -2,7 +2,7 @@
     <string name="app_name">StreamChatapp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="api_key">78gqm5ej25fs</string>
+    <string name="api_key"></string>
     <string name="confirm">Confirm</string>
     <string name="login">Login</string>
     <string name="your_name">Your name</string>
